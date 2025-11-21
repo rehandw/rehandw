@@ -1,8 +1,8 @@
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/reihan-dwi-kusuma-1a67b8399?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="28" alt="LinkedIn" />
-</a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="28" alt="LinkedIn" />
+
 
 
 # 💻 Tech Stack:
